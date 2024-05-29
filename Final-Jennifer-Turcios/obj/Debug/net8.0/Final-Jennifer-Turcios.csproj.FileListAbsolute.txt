@@ -1,0 +1,14 @@
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.AssemblyInfoInputs.cache
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.AssemblyInfo.cs
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.csproj.CoreCompileInputs.cache
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\bin\Debug\net8.0\Final-Jennifer-Turcios.exe
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\bin\Debug\net8.0\Final-Jennifer-Turcios.deps.json
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\bin\Debug\net8.0\Final-Jennifer-Turcios.runtimeconfig.json
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\bin\Debug\net8.0\Final-Jennifer-Turcios.dll
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\bin\Debug\net8.0\Final-Jennifer-Turcios.pdb
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.dll
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\refint\Final-Jennifer-Turcios.dll
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.pdb
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\Final-Jennifer-Turcios.genruntimeconfig.cache
+C:\Users\jenfe\Documents\Final-Jennifer-Turcios\obj\Debug\net8.0\ref\Final-Jennifer-Turcios.dll
